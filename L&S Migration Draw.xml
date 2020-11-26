@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T20:52:03.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Ai8JqdQD1UzYAe3L860X" version="13.10.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-26T20:57:08.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="pcyny_ooJTNUrWaVLx6X" version="13.10.4" type="github" pages="2">
   <diagram id="lkW0NbR8WEG0Z8Zh_iH4" name="Page-1">
     <mxGraphModel dx="2708" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -329,7 +329,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NXao0xhCNQGTv-SC0RCO" name="WIP-Livia">
-    <mxGraphModel dx="3501" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2958" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EtdP9ZoVsPOM5kYRfTdR-0" />
         <mxCell id="EtdP9ZoVsPOM5kYRfTdR-1" parent="EtdP9ZoVsPOM5kYRfTdR-0" />
@@ -696,8 +696,18 @@
         <mxCell id="g_vhKhHRP9mIujE9eUhF-70" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HUB &lt;br&gt;Migration&lt;/b&gt;&lt;/font&gt;" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=#000000;fillColor=#0A0A0A;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
           <mxGeometry x="-1" y="560" width="45" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="953" y="866.4705882352941" as="sourcePoint" />
+            <mxPoint x="1043" y="814.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="993" y="866" />
+              <mxPoint x="993" y="814" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="g_vhKhHRP9mIujE9eUhF-72" value="Criação do Pipeline de Infraestrutura via CloudFormation" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
-          <mxGeometry x="779" y="826.5" width="160" height="80" as="geometry" />
+          <mxGeometry x="779" y="826.5" width="171" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g_vhKhHRP9mIujE9eUhF-74" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
           <mxGeometry x="99" y="570" width="40" height="40" as="geometry" />
@@ -710,6 +720,9 @@
         </mxCell>
         <mxCell id="g_vhKhHRP9mIujE9eUhF-79" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HUB &lt;br&gt;Migration&lt;/b&gt;&lt;/font&gt;" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=#000000;fillColor=#0A0A0A;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
           <mxGeometry x="843.5" y="585" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EtdP9ZoVsPOM5kYRfTdR-1" source="g_vhKhHRP9mIujE9eUhF-81" target="g_vhKhHRP9mIujE9eUhF-102">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g_vhKhHRP9mIujE9eUhF-81" value="Criação do Pipeline do Image Builder" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
           <mxGeometry x="786" y="704.5" width="160" height="80" as="geometry" />
@@ -735,6 +748,37 @@
         </mxCell>
         <mxCell id="g_vhKhHRP9mIujE9eUhF-101" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Equipe de &lt;br&gt;Sistemas&lt;/b&gt;&lt;/font&gt;" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=#000000;fillColor=#0A0A0A;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
           <mxGeometry x="582.25" y="669.5" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EtdP9ZoVsPOM5kYRfTdR-1" source="g_vhKhHRP9mIujE9eUhF-102" target="g_vhKhHRP9mIujE9eUhF-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EtdP9ZoVsPOM5kYRfTdR-1" source="g_vhKhHRP9mIujE9eUhF-102" target="g_vhKhHRP9mIujE9eUhF-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="814" />
+              <mxPoint x="1180" y="916" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EtdP9ZoVsPOM5kYRfTdR-1" source="g_vhKhHRP9mIujE9eUhF-102" target="g_vhKhHRP9mIujE9eUhF-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="814" />
+              <mxPoint x="1180" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-102" value="Subida oficial do ambiente" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
+          <mxGeometry x="1040" y="784.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-106" value="Migração 1-5%" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
+          <mxGeometry x="1210" y="689.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-108" value="Inserção de alarmes no NOI" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
+          <mxGeometry x="1210" y="784.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-109" value="Handover Operação" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
+          <mxGeometry x="1210" y="886.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
