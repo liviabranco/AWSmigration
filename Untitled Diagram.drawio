@@ -1,4 +1,4 @@
-<mxfile modified="2020-11-26T18:44:38.570Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="kkBvPjD8ZN-GFbwyFNUI" version="13.9.3" type="github" pages="3">
+<mxfile modified="2020-11-26T18:50:15.720Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="9xE8r6mE44d_doAVzqKv" version="13.9.3" type="github" pages="3">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Basic">
     <mxGraphModel dx="1304" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -337,14 +337,14 @@
         <mxCell id="QpWbFMiinVZshg9G5Pn3-9" value="- Levantamento do cronograma de migração&lt;br&gt;- Consolidação da lista de destinatários para as comunicações&lt;br&gt;- Formalização da equipe de migração, papeis e reposabilidades" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="QpWbFMiinVZshg9G5Pn3-1">
           <mxGeometry x="-90" y="340" width="190" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="QpWbFMiinVZshg9G5Pn3-10" value="&amp;nbsp;- Lorem ipsum dolor sit amet&lt;br&gt;&amp;nbsp;- consectetur adipisicing elit&lt;br&gt;&amp;nbsp;- sed do eiusmod tempor&lt;br&gt;&amp;nbsp;- incididunt ut labore et dolore&lt;br&gt;&amp;nbsp;- magna aliqua." style="shape=rect;fillColor=#FCE7CD;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="QpWbFMiinVZshg9G5Pn3-1">
-          <mxGeometry x="110" y="60" width="190" height="120" as="geometry" />
+        <mxCell id="QpWbFMiinVZshg9G5Pn3-10" value="&amp;nbsp;- Solicitação dos certificados&lt;br&gt;&amp;nbsp;- Instalação do agente cloudEndure em máquina on premisses&lt;br&gt;&amp;nbsp;- Migração da primeira instancia&lt;br&gt;&amp;nbsp;- Criação dos paineis de monitoração (splunk, appd, cloudwatch)" style="shape=rect;fillColor=#FCE7CD;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="QpWbFMiinVZshg9G5Pn3-1">
+          <mxGeometry x="110" y="60" width="190" height="140" as="geometry" />
         </mxCell>
         <mxCell id="QpWbFMiinVZshg9G5Pn3-11" value="&amp;nbsp;- Lorem ipsum dolor sit amet&lt;br&gt;&amp;nbsp;- consectetur adipisicing elit&lt;br&gt;&amp;nbsp;- sed do eiusmod tempor&lt;br&gt;&amp;nbsp;- incididunt ut labore et dolore&lt;br&gt;&amp;nbsp;- magna aliqua." style="shape=rect;fillColor=#FCE7CD;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="QpWbFMiinVZshg9G5Pn3-1">
-          <mxGeometry x="110" y="190" width="190" height="120" as="geometry" />
+          <mxGeometry x="110" y="210" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QpWbFMiinVZshg9G5Pn3-12" value="&amp;nbsp;- Lorem ipsum dolor sit amet&lt;br&gt;&amp;nbsp;- consectetur adipisicing elit&lt;br&gt;&amp;nbsp;- sed do eiusmod tempor&lt;br&gt;&amp;nbsp;- incididunt ut labore et dolore&lt;br&gt;&amp;nbsp;- magna aliqua." style="shape=rect;fillColor=#FCE7CD;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="QpWbFMiinVZshg9G5Pn3-1">
-          <mxGeometry x="110" y="320" width="190" height="120" as="geometry" />
+          <mxGeometry x="110" y="345" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QpWbFMiinVZshg9G5Pn3-13" value="&amp;nbsp;- Lorem ipsum dolor sit amet&lt;br&gt;&amp;nbsp;- consectetur adipisicing elit&lt;br&gt;&amp;nbsp;- sed do eiusmod tempor&lt;br&gt;&amp;nbsp;- incididunt ut labore et dolore&lt;br&gt;&amp;nbsp;- magna aliqua." style="shape=rect;fillColor=#FAD9D5;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="QpWbFMiinVZshg9G5Pn3-1">
           <mxGeometry x="310" y="60" width="190" height="120" as="geometry" />
