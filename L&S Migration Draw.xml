@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T20:07:01.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="TFnWU5Q-8WyGPbfnDgKK" version="13.10.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-26T20:12:20.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="3qmzI32E4WV020CZZGjo" version="13.10.4" type="github" pages="2">
   <diagram id="lkW0NbR8WEG0Z8Zh_iH4" name="Page-1">
     <mxGraphModel dx="2708" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -469,16 +469,10 @@
           <mxGeometry x="450" y="251" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJlbWWqZ6rS762V8Gp-2-44" value="Migration HUB" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="EtdP9ZoVsPOM5kYRfTdR-1" vertex="1">
-          <mxGeometry x="-480" y="540" width="1550" height="80" as="geometry" />
+          <mxGeometry x="-160" y="540" width="1230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BJlbWWqZ6rS762V8Gp-2-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;strokeColor=#FCFCFC;fontColor=#ffffff;" parent="EtdP9ZoVsPOM5kYRfTdR-1" vertex="1">
           <mxGeometry x="-1120" y="21" width="490" height="490" as="geometry" />
-        </mxCell>
-        <mxCell id="BJlbWWqZ6rS762V8Gp-2-46" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="EtdP9ZoVsPOM5kYRfTdR-1" vertex="1">
-          <mxGeometry x="-390" y="570" width="10" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BJlbWWqZ6rS762V8Gp-2-47" value="NF2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="EtdP9ZoVsPOM5kYRfTdR-1" vertex="1">
-          <mxGeometry x="550" y="630" width="490" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJlbWWqZ6rS762V8Gp-2-48" value="Esteira DEV" style="rounded=0;whiteSpace=wrap;html=1;" parent="EtdP9ZoVsPOM5kYRfTdR-1" vertex="1">
           <mxGeometry x="690" y="90" width="170" height="60" as="geometry" />
@@ -488,9 +482,6 @@
         </mxCell>
         <mxCell id="BJlbWWqZ6rS762V8Gp-2-50" value="Operação,Observability" style="rounded=0;whiteSpace=wrap;html=1;" parent="EtdP9ZoVsPOM5kYRfTdR-1" vertex="1">
           <mxGeometry x="690" y="251" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BJlbWWqZ6rS762V8Gp-2-51" value="Traditional Ops" style="rounded=0;whiteSpace=wrap;html=1;" parent="EtdP9ZoVsPOM5kYRfTdR-1" vertex="1">
-          <mxGeometry x="820" y="700" width="620" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJlbWWqZ6rS762V8Gp-2-52" value="Operação,Observability" style="rounded=0;whiteSpace=wrap;html=1;" parent="EtdP9ZoVsPOM5kYRfTdR-1" vertex="1">
           <mxGeometry x="740" y="330" width="170" height="60" as="geometry" />
@@ -511,10 +502,7 @@
           <mxGeometry x="-1540" y="390" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BJlbWWqZ6rS762V8Gp-2-73" value="Siglas com demanda de migração" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="EtdP9ZoVsPOM5kYRfTdR-1" vertex="1">
-          <mxGeometry x="-900" y="580" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BJlbWWqZ6rS762V8Gp-2-74" value="SI2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="EtdP9ZoVsPOM5kYRfTdR-1" vertex="1">
-          <mxGeometry x="-90" y="630" width="490" height="60" as="geometry" />
+          <mxGeometry x="-783" y="547" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJlbWWqZ6rS762V8Gp-2-79" value="Versão 7 e 8" style="rounded=0;whiteSpace=wrap;html=1;" parent="EtdP9ZoVsPOM5kYRfTdR-1" vertex="1">
           <mxGeometry x="144.83" y="240" width="96.78" height="15.5" as="geometry" />
@@ -591,13 +579,54 @@
           <mxGeometry x="-1110" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_vhKhHRP9mIujE9eUhF-26" value="Siglas com demanda de migração" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
-          <mxGeometry x="-890" y="590" width="240" height="60" as="geometry" />
+          <mxGeometry x="-773" y="557" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_vhKhHRP9mIujE9eUhF-27" value="Siglas com demanda de migração" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
-          <mxGeometry x="-880" y="600" width="240" height="60" as="geometry" />
+          <mxGeometry x="-763" y="567" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_vhKhHRP9mIujE9eUhF-28" value="Siglas com demanda de migração" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
-          <mxGeometry x="-870" y="610" width="240" height="60" as="geometry" />
+          <mxGeometry x="-753" y="577" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-30" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EtdP9ZoVsPOM5kYRfTdR-1" target="g_vhKhHRP9mIujE9eUhF-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-503" y="595" as="sourcePoint" />
+            <mxPoint x="-443.0999999999999" y="594.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.011;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="EtdP9ZoVsPOM5kYRfTdR-1" source="g_vhKhHRP9mIujE9eUhF-31" target="BJlbWWqZ6rS762V8Gp-2-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.538;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="EtdP9ZoVsPOM5kYRfTdR-1" source="g_vhKhHRP9mIujE9eUhF-31" target="g_vhKhHRP9mIujE9eUhF-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-330" y="677" />
+              <mxPoint x="-604" y="677" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-31" value="Avaliação&lt;br&gt;Readiness Review" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#009999;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
+          <mxGeometry x="-400" y="540" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-34" value="Siglas avaliadas como prontas para migração" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
+          <mxGeometry x="-132" y="560" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-35" value="Siglas avaliadas como prontas para migração" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
+          <mxGeometry x="-122" y="570" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-37" value="Siglas avaliadas como prontas para migração" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
+          <mxGeometry x="-112" y="580" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-39" value="Siglas com demanda de migração" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
+          <mxGeometry x="-743" y="587" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-40" value="Siglas com demanda de migração" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
+          <mxGeometry x="-733" y="597" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-42" value="OK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
+          <mxGeometry x="-230" y="575" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g_vhKhHRP9mIujE9eUhF-43" value="NOT&amp;nbsp; OK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
+          <mxGeometry x="-470" y="657" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
