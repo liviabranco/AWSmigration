@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T23:04:39.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ldHdpjfCLkDFD9er70xV" version="13.10.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-26T23:54:35.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="NsyBerKkxxUb2R2sjAED" version="13.10.4" type="github" pages="3">
   <diagram id="lkW0NbR8WEG0Z8Zh_iH4" name="Page-1">
     <mxGraphModel dx="3183" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -809,12 +809,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QGPam7B8UBGuLTCzqDvI" name="Leia-me">
-    <mxGraphModel dx="4820" dy="1314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2577" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tGmyM7_oZI6B2tN-G14D-0" />
         <mxCell id="tGmyM7_oZI6B2tN-G14D-1" parent="tGmyM7_oZI6B2tN-G14D-0" />
         <mxCell id="XHwpuj2e99yEIFa_0ABq-0" value="Cross-Functional Flowchart" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=50;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;align=center;strokeColor=#616161;fillColor=#636363;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
-          <mxGeometry x="-1600" y="80" width="4040" height="670" as="geometry" />
+          <mxGeometry x="-1600" y="60" width="4040" height="670" as="geometry" />
         </mxCell>
         <mxCell id="XHwpuj2e99yEIFa_0ABq-1" value="Framework Migration" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-0">
           <mxGeometry y="50" width="4040" height="620" as="geometry" />
@@ -822,20 +822,26 @@
         <mxCell id="XHwpuj2e99yEIFa_0ABq-3" value="Planejamento da entrega" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-1">
           <mxGeometry x="40" width="710" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="K3eLKyAXs9zj23FMxdhM-5" value="WN" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-3">
-          <mxGeometry x="319" y="510" width="240" height="60" as="geometry" />
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-10" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-3">
+          <mxGeometry x="470" y="480" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="XHwpuj2e99yEIFa_0ABq-2" value="Habilitação dos recursos AWS para uso (" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-1">
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-11" value="WM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-30;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-3">
+          <mxGeometry x="516.5" y="529" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwpuj2e99yEIFa_0ABq-2" value="Habilitação dos recursos AWS para uso (Migração)" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-1">
           <mxGeometry x="750" width="1870" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="K3eLKyAXs9zj23FMxdhM-20" value="Wm" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-2">
-          <mxGeometry x="420" y="510" width="240" height="60" as="geometry" />
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-13" value="SI2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-30;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-2">
+          <mxGeometry x="411.5" y="509" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XHwpuj2e99yEIFa_0ABq-4" value="handover" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-1">
           <mxGeometry x="2620" width="710" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="K3eLKyAXs9zj23FMxdhM-21" value="NF2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-4">
-          <mxGeometry x="365" y="510" width="240" height="60" as="geometry" />
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-16" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-4">
+          <mxGeometry x="280" y="500" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-17" value="NF2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-30;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-4">
+          <mxGeometry x="326.5" y="549" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="z9awRQnhayewAT_CyNOZ-24" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Descomissionamento + Workload Operation&lt;/span&gt;" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-1">
           <mxGeometry x="3330" width="710" height="620" as="geometry" />
@@ -1098,19 +1104,86 @@
         <mxCell id="7dgCEXYqpEGvlU9gmBkY-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#FFFFFF;fillColor=#FFFFFF;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
           <mxGeometry x="-350" y="270" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="7dgCEXYqpEGvlU9gmBkY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="tGmyM7_oZI6B2tN-G14D-1" source="7dgCEXYqpEGvlU9gmBkY-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1230.333333333333" y="770" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;fillColor=#000000;rotation=90;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-1249" y="576.5" width="59" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="7dgCEXYqpEGvlU9gmBkY-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;fillColor=#000000;rotation=90;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
-          <mxGeometry x="-1300" y="560" width="135" height="643.25" as="geometry" />
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;fillColor=#000000;rotation=90;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-30" y="584" width="59" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="WgbuQKFhmY7ajytGkMaq-0" value="Definir pré requisitos e priorizações na esteira de migrações&lt;br&gt;Habilitar ferramentas de discovery" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
-          <mxGeometry x="-1380" y="1020" width="125" height="20" as="geometry" />
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;fillColor=#000000;rotation=90;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="1320" y="570" width="59" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="WgbuQKFhmY7ajytGkMaq-1" value="Cloud Readiness Review" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
-          <mxGeometry x="-1220" y="1000" width="120" height="60" as="geometry" />
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;fillColor=#000000;rotation=90;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="2050" y="576.5" width="59" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-14" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-480" y="580" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-15" value="SI2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-30;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-428.5" y="629" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-19" value="&lt;span style=&quot;font-weight: 400 ; text-align: center&quot;&gt;Pré-requisitos e priorizações na esteira de migrações&lt;/span&gt;&lt;br style=&quot;font-weight: 400 ; text-align: center&quot;&gt;" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-1570" y="850" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-25" value="" style="group" vertex="1" connectable="0" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-1150" y="850" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-23" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;span&gt;Habilitar ferramentas de discovery para avaliar CloudReadiness&lt;/span&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="WgbuQKFhmY7ajytGkMaq-25">
+          <mxGeometry width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/wrench-128.png;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="WgbuQKFhmY7ajytGkMaq-25">
+          <mxGeometry y="5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-26" value="AWS Migration Hub" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.migration_hub;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-1170" y="930" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-QWUdi3W_C8BLqYU1pp-0" value="" style="group" vertex="1" connectable="0" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="70" y="850" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-QWUdi3W_C8BLqYU1pp-1" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;span&gt;Habilitar ferramentas de Migração&lt;/span&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="Y-QWUdi3W_C8BLqYU1pp-0">
+          <mxGeometry width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-QWUdi3W_C8BLqYU1pp-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/wrench-128.png;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="Y-QWUdi3W_C8BLqYU1pp-0">
+          <mxGeometry y="5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wZnanB-EFTIRMuTaLNhN-0" value="&lt;span style=&quot;font-weight: 400 ; text-align: center&quot;&gt;Definir procedimentos de migração para diferentes tecnologias&lt;/span&gt;" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-360" y="840" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZnanB-EFTIRMuTaLNhN-4" value="" style="group" vertex="1" connectable="0" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-1060" y="920" width="87" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="wZnanB-EFTIRMuTaLNhN-2" value="" style="verticalLabelPosition=bottom;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.tetration_analytics;" vertex="1" parent="wZnanB-EFTIRMuTaLNhN-4">
+          <mxGeometry x="3.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wZnanB-EFTIRMuTaLNhN-3" value="Cisco Tetration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wZnanB-EFTIRMuTaLNhN-4">
+          <mxGeometry y="82" width="87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wZnanB-EFTIRMuTaLNhN-16" value="" style="group" vertex="1" connectable="0" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-240" y="920" width="54.349999999999994" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wZnanB-EFTIRMuTaLNhN-9" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="wZnanB-EFTIRMuTaLNhN-16">
+          <mxGeometry width="54.35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wZnanB-EFTIRMuTaLNhN-15" value="Windows" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wZnanB-EFTIRMuTaLNhN-16">
+          <mxGeometry x="7.180000000000007" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wZnanB-EFTIRMuTaLNhN-17" value="" style="group" vertex="1" connectable="0" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-360" y="920" width="54.35000000000002" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wZnanB-EFTIRMuTaLNhN-7" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="wZnanB-EFTIRMuTaLNhN-17">
+          <mxGeometry width="54.35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wZnanB-EFTIRMuTaLNhN-13" value="Linux" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wZnanB-EFTIRMuTaLNhN-17">
+          <mxGeometry x="7.180000000000007" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wZnanB-EFTIRMuTaLNhN-18" value="" style="group" vertex="1" connectable="0" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-140" y="920" width="69.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wZnanB-EFTIRMuTaLNhN-12" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/sql_server.svg;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="wZnanB-EFTIRMuTaLNhN-18">
+          <mxGeometry x="15.379999999999995" width="38.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wZnanB-EFTIRMuTaLNhN-14" value="Banco de dados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wZnanB-EFTIRMuTaLNhN-18">
+          <mxGeometry y="60" width="69.25" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
