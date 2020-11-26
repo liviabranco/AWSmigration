@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T21:48:56.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="gsoFRiAdfCu0TttRhV1V" version="13.10.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-26T23:04:39.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ldHdpjfCLkDFD9er70xV" version="13.10.4" type="github" pages="3">
   <diagram id="lkW0NbR8WEG0Z8Zh_iH4" name="Page-1">
     <mxGraphModel dx="3183" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -316,15 +316,6 @@
         <mxCell id="bvNrJV-cn6tU2nrSLR4z-1" value="OI BRUNO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-505" y="350" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r8gRy4xuOFfspGkcN8cp-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-650" y="320" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="r8gRy4xuOFfspGkcN8cp-2" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-650" y="320" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="r8gRy4xuOFfspGkcN8cp-3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1420" y="255.5" width="1040" height="820" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -567,6 +558,9 @@
           <mxGeometry x="-810" y="315.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_vhKhHRP9mIujE9eUhF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EtdP9ZoVsPOM5kYRfTdR-1" source="g_vhKhHRP9mIujE9eUhF-21" target="BJlbWWqZ6rS762V8Gp-2-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XAGVK_wb158HYbPxvdPP-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EtdP9ZoVsPOM5kYRfTdR-1" source="g_vhKhHRP9mIujE9eUhF-21" target="g_vhKhHRP9mIujE9eUhF-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g_vhKhHRP9mIujE9eUhF-21" value="Estabelecer o processo de solicitação e governança das contas AWS modelo ReHost" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EtdP9ZoVsPOM5kYRfTdR-1">
@@ -814,11 +808,38 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="QGPam7B8UBGuLTCzqDvI" name="Page-3">
-    <mxGraphModel dx="4424" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="QGPam7B8UBGuLTCzqDvI" name="Leia-me">
+    <mxGraphModel dx="4820" dy="1314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tGmyM7_oZI6B2tN-G14D-0" />
         <mxCell id="tGmyM7_oZI6B2tN-G14D-1" parent="tGmyM7_oZI6B2tN-G14D-0" />
+        <mxCell id="XHwpuj2e99yEIFa_0ABq-0" value="Cross-Functional Flowchart" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=50;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;align=center;strokeColor=#616161;fillColor=#636363;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-1600" y="80" width="4040" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwpuj2e99yEIFa_0ABq-1" value="Framework Migration" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-0">
+          <mxGeometry y="50" width="4040" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwpuj2e99yEIFa_0ABq-3" value="Planejamento da entrega" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-1">
+          <mxGeometry x="40" width="710" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="K3eLKyAXs9zj23FMxdhM-5" value="WN" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-3">
+          <mxGeometry x="319" y="510" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwpuj2e99yEIFa_0ABq-2" value="Habilitação dos recursos AWS para uso (" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-1">
+          <mxGeometry x="750" width="1870" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="K3eLKyAXs9zj23FMxdhM-20" value="Wm" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-2">
+          <mxGeometry x="420" y="510" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwpuj2e99yEIFa_0ABq-4" value="handover" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-1">
+          <mxGeometry x="2620" width="710" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="K3eLKyAXs9zj23FMxdhM-21" value="NF2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-4">
+          <mxGeometry x="365" y="510" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9awRQnhayewAT_CyNOZ-24" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Descomissionamento + Workload Operation&lt;/span&gt;" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-1">
+          <mxGeometry x="3330" width="710" height="620" as="geometry" />
+        </mxCell>
         <mxCell id="tGmyM7_oZI6B2tN-G14D-2" value="Siglas com demanda de migração" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
           <mxGeometry x="-1440" y="386.5" width="240" height="60" as="geometry" />
         </mxCell>
@@ -1068,41 +1089,28 @@
         <mxCell id="tGmyM7_oZI6B2tN-G14D-67" value="Entrega da AWS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
           <mxGeometry x="1599" y="503" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XHwpuj2e99yEIFa_0ABq-0" value="Cross-Functional Flowchart" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=50;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;align=center;strokeColor=#616161;fillColor=#636363;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
-          <mxGeometry x="-1600" y="80" width="4040" height="1304" as="geometry" />
-        </mxCell>
-        <mxCell id="XHwpuj2e99yEIFa_0ABq-1" value="Framework Migration" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-0">
-          <mxGeometry y="50" width="4040" height="630" as="geometry" />
-        </mxCell>
-        <mxCell id="XHwpuj2e99yEIFa_0ABq-3" value="Planejamento da entrega" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-1">
-          <mxGeometry x="40" width="710" height="630" as="geometry" />
-        </mxCell>
-        <mxCell id="XHwpuj2e99yEIFa_0ABq-2" value="Habilitação dos recursos AWS para uso (" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-1">
-          <mxGeometry x="750" width="1870" height="630" as="geometry" />
-        </mxCell>
-        <mxCell id="XHwpuj2e99yEIFa_0ABq-4" value="handover" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-1">
-          <mxGeometry x="2620" width="710" height="630" as="geometry" />
-        </mxCell>
-        <mxCell id="z9awRQnhayewAT_CyNOZ-24" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-1">
-          <mxGeometry x="3330" width="710" height="630" as="geometry" />
-        </mxCell>
-        <mxCell id="z9awRQnhayewAT_CyNOZ-20" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1" vertex="1" parent="XHwpuj2e99yEIFa_0ABq-0">
-          <mxGeometry y="680" width="4040" height="624" as="geometry" />
-        </mxCell>
-        <mxCell id="z9awRQnhayewAT_CyNOZ-21" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="z9awRQnhayewAT_CyNOZ-20">
-          <mxGeometry x="40" width="710" height="624" as="geometry" />
-        </mxCell>
-        <mxCell id="z9awRQnhayewAT_CyNOZ-22" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="z9awRQnhayewAT_CyNOZ-20">
-          <mxGeometry x="750" width="1870" height="624" as="geometry" />
-        </mxCell>
-        <mxCell id="z9awRQnhayewAT_CyNOZ-23" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="z9awRQnhayewAT_CyNOZ-20">
-          <mxGeometry x="2620" width="710" height="624" as="geometry" />
-        </mxCell>
-        <mxCell id="z9awRQnhayewAT_CyNOZ-25" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="z9awRQnhayewAT_CyNOZ-20">
-          <mxGeometry x="3330" width="710" height="624" as="geometry" />
-        </mxCell>
         <mxCell id="z9awRQnhayewAT_CyNOZ-5" value="Procedimento de descomissionamento do ambiente On Premisses" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#616161;fillColor=#FFFFFF;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
           <mxGeometry x="1790" y="403" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7dgCEXYqpEGvlU9gmBkY-0" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#FFFFFF;fillColor=#FFFFFF;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-350" y="270" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7dgCEXYqpEGvlU9gmBkY-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#FFFFFF;fillColor=#FFFFFF;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-350" y="270" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7dgCEXYqpEGvlU9gmBkY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="tGmyM7_oZI6B2tN-G14D-1" source="7dgCEXYqpEGvlU9gmBkY-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1230.333333333333" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7dgCEXYqpEGvlU9gmBkY-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;fillColor=#000000;rotation=90;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-1300" y="560" width="135" height="643.25" as="geometry" />
+        </mxCell>
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-0" value="Definir pré requisitos e priorizações na esteira de migrações&lt;br&gt;Habilitar ferramentas de discovery" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-1380" y="1020" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-1" value="Cloud Readiness Review" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="-1220" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
