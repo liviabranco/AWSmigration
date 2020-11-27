@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T19:55:20.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Nu1klVWxusah8oHmeEZ8" version="13.10.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-27T19:55:42.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="kpshkykSKgyZLi2pqxOn" version="13.10.4" type="github" pages="3">
   <diagram id="lkW0NbR8WEG0Z8Zh_iH4" name="Page-1">
     <mxGraphModel dx="2708" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1032,6 +1032,9 @@
         <mxCell id="wZnanB-EFTIRMuTaLNhN-66" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="wZnanB-EFTIRMuTaLNhN-62" vertex="1">
           <mxGeometry x="3340" width="700" height="380" as="geometry" />
         </mxCell>
+        <mxCell id="WgbuQKFhmY7ajytGkMaq-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;fillColor=#000000;rotation=90;" parent="wZnanB-EFTIRMuTaLNhN-66" vertex="1">
+          <mxGeometry x="280" y="-160" width="59" height="450" as="geometry" />
+        </mxCell>
         <mxCell id="tGmyM7_oZI6B2tN-G14D-2" value="Siglas com demanda de migração" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="tGmyM7_oZI6B2tN-G14D-1" vertex="1">
           <mxGeometry x="-1440" y="386.5" width="240" height="60" as="geometry" />
         </mxCell>
@@ -1314,9 +1317,6 @@
         </mxCell>
         <mxCell id="WgbuQKFhmY7ajytGkMaq-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;fillColor=#000000;rotation=90;size=0.3389830508474576;" parent="tGmyM7_oZI6B2tN-G14D-1" vertex="1">
           <mxGeometry x="-60" y="580" width="59" height="450" as="geometry" />
-        </mxCell>
-        <mxCell id="WgbuQKFhmY7ajytGkMaq-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;fillColor=#000000;rotation=90;" parent="tGmyM7_oZI6B2tN-G14D-1" vertex="1">
-          <mxGeometry x="2050" y="576.5" width="59" height="450" as="geometry" />
         </mxCell>
         <mxCell id="WgbuQKFhmY7ajytGkMaq-25" value="" style="group" parent="tGmyM7_oZI6B2tN-G14D-1" vertex="1" connectable="0">
           <mxGeometry x="-1150" y="840" width="290" height="60" as="geometry" />
