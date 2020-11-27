@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T19:37:36.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="OB08-u6FvMAKwYKJn3Id" version="13.10.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-27T19:39:03.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="e9gUcNguYJcKFJ6yUwkD" version="13.10.4" type="github" pages="3">
   <diagram id="lkW0NbR8WEG0Z8Zh_iH4" name="Page-1">
     <mxGraphModel dx="2708" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -942,8 +942,8 @@
         <mxCell id="uIrfLuADHKtoXTrfy9Op-19" value="" style="group" vertex="1" connectable="0" parent="wZnanB-EFTIRMuTaLNhN-65">
           <mxGeometry x="290" y="100" width="80" height="90.5" as="geometry" />
         </mxCell>
-        <mxCell id="uIrfLuADHKtoXTrfy9Op-21" value="Cloudability" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uIrfLuADHKtoXTrfy9Op-19">
-          <mxGeometry y="70.5" width="80" height="20" as="geometry" />
+        <mxCell id="uIrfLuADHKtoXTrfy9Op-21" value="IBM NOI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uIrfLuADHKtoXTrfy9Op-19">
+          <mxGeometry x="10" y="70.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uIrfLuADHKtoXTrfy9Op-23" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.alarm;" vertex="1" parent="uIrfLuADHKtoXTrfy9Op-19">
           <mxGeometry y="10" width="86.4" height="50" as="geometry" />
