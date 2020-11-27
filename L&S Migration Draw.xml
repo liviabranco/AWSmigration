@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T00:10:16.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="vZx-99UVN6A_qE_XIAbh" version="13.10.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-27T00:17:42.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="LBA94aOCjb0fOGI6o52x" version="13.10.4" type="github" pages="3">
   <diagram id="lkW0NbR8WEG0Z8Zh_iH4" name="Page-1">
     <mxGraphModel dx="3183" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1132,16 +1132,16 @@
           <mxGeometry width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WgbuQKFhmY7ajytGkMaq-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/wrench-128.png;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="WgbuQKFhmY7ajytGkMaq-25">
-          <mxGeometry y="5" width="50" height="50" as="geometry" />
+          <mxGeometry x="6" y="5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Y-QWUdi3W_C8BLqYU1pp-0" value="" style="group" vertex="1" connectable="0" parent="tGmyM7_oZI6B2tN-G14D-1">
-          <mxGeometry x="70" y="850" width="290" height="60" as="geometry" />
+          <mxGeometry x="84" y="840" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y-QWUdi3W_C8BLqYU1pp-1" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;span&gt;Habilitar ferramentas de Migração&lt;/span&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="Y-QWUdi3W_C8BLqYU1pp-0">
           <mxGeometry width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y-QWUdi3W_C8BLqYU1pp-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/wrench-128.png;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="Y-QWUdi3W_C8BLqYU1pp-0">
-          <mxGeometry y="5" width="50" height="50" as="geometry" />
+          <mxGeometry x="6" y="5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wZnanB-EFTIRMuTaLNhN-0" value="&lt;span style=&quot;font-weight: 400 ; text-align: center&quot;&gt;Definir procedimentos de migração para diferentes tecnologias&lt;/span&gt;" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
           <mxGeometry x="-360" y="840" width="290" height="60" as="geometry" />
@@ -1195,13 +1195,10 @@
           <mxGeometry y="69.42424242424242" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wZnanB-EFTIRMuTaLNhN-26" value="" style="group" vertex="1" connectable="0" parent="tGmyM7_oZI6B2tN-G14D-1">
-          <mxGeometry x="54.5" y="925" width="101" height="101.5" as="geometry" />
-        </mxCell>
-        <mxCell id="wZnanB-EFTIRMuTaLNhN-24" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.database_migration_service;" vertex="1" parent="wZnanB-EFTIRMuTaLNhN-26">
-          <mxGeometry x="15.5" width="70" height="70" as="geometry" />
+          <mxGeometry x="54.5" y="930" width="95.5" height="85" as="geometry" />
         </mxCell>
         <mxCell id="wZnanB-EFTIRMuTaLNhN-25" value="AWS Database Migration Services" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wZnanB-EFTIRMuTaLNhN-26">
-          <mxGeometry y="76.5" width="101" height="25" as="geometry" />
+          <mxGeometry y="69.06403940886699" width="95.5" height="20.935960591133004" as="geometry" />
         </mxCell>
         <mxCell id="WgbuQKFhmY7ajytGkMaq-26" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.migration_hub;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
           <mxGeometry x="-1150" y="930.75" width="70" height="70" as="geometry" />
@@ -1213,13 +1210,22 @@
           <mxGeometry y="72.35" width="90" height="17.65" as="geometry" />
         </mxCell>
         <mxCell id="wZnanB-EFTIRMuTaLNhN-30" value="" style="group" vertex="1" connectable="0" parent="tGmyM7_oZI6B2tN-G14D-1">
-          <mxGeometry x="510" y="850" width="290" height="60" as="geometry" />
+          <mxGeometry x="506" y="840" width="290" height="78" as="geometry" />
         </mxCell>
         <mxCell id="wZnanB-EFTIRMuTaLNhN-31" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;span&gt;Habilitar ferramentas de Migração&lt;/span&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="wZnanB-EFTIRMuTaLNhN-30">
           <mxGeometry width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wZnanB-EFTIRMuTaLNhN-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/wrench-128.png;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="wZnanB-EFTIRMuTaLNhN-30">
-          <mxGeometry y="5" width="50" height="50" as="geometry" />
+        <mxCell id="wZnanB-EFTIRMuTaLNhN-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/streamline-emoji-1/48/092-robot-face-1-128.png;strokeColor=#FF3399;fillColor=#333333;" vertex="1" parent="wZnanB-EFTIRMuTaLNhN-30">
+          <mxGeometry x="4" y="1.5" width="57" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="wZnanB-EFTIRMuTaLNhN-24" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.database_migration_service;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="72.9359405940594" y="920" width="58.62068965517241" height="58.62068965517241" as="geometry" />
+        </mxCell>
+        <mxCell id="wZnanB-EFTIRMuTaLNhN-34" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#333333;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudendure_migration;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="200" y="918.62" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZnanB-EFTIRMuTaLNhN-35" value="AWS CloudEndure&lt;br&gt;Migration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tGmyM7_oZI6B2tN-G14D-1">
+          <mxGeometry x="181.25" y="997.564039408867" width="95.5" height="20.935960591133004" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
